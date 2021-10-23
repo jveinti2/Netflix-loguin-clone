@@ -1,6 +1,6 @@
 # Netflix-Clone 🎥
 
-Este proyecto es un clone con sin funcionalidad de la pagina de netflix, simulando el login, el cuerpo de la pagina los links finales.
+Este proyecto es un clone sin funcionalidad de la pagina de netflix, simulando el login, el cuerpo de la pagina los links finales.
 
 ## Tecnologías 🔨
 
