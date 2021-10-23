@@ -1,9 +1,15 @@
-# **CLONE NETFLIX** 🟥
+# Netflix-Clone 🎥
 
-This is a practice exercise of the Netflix landing, some assests I couldn't get like the gif on the monitor with the movies.
+Este proyecto es un clone con sin funcionalidad de la pagina de netflix, simulando el login, el cuerpo de la pagina los links finales.
 
-## Built with 🔥
--Html
--Css3
+## Tecnologías 🔨
 
-### I will be grateful for contributions or feedback! ✌
+-html
+-css
+
+## Estado del proyecto 🚩
+
+La intención inicial con este proyecto fue crear una visual con la cual en un futuro poder integrarle JS vanilla para conseguir funcionamiento.
+
+## Contribución 👊
+Las solicitudes de extracción son bienvenidas. Para cambios importantes, puedes enviarme PR primero para trabajar en conjunto.
