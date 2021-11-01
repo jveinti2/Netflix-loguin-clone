@@ -7,7 +7,7 @@ html {
     font-family: Arial, Helvetica, sans-serif, roboto, sans-serif;
 }
 .background_movies{
-    background-image: url(/assests/fondo.jpeg);
+    background-image: url(./assests/fondo.jpeg);
     height: 100vh;
 
 }
