@@ -7,7 +7,7 @@ html {
     font-family: Arial, Helvetica, sans-serif, roboto, sans-serif;
 }
 .background_movies{
-    background-image: url('/resource/assets/fondo.jpeg');
+    background-image: url('https://jveinti2.github.io/Netflix-loguin-clone/resource/assets/fondo.jpeg');
     height: 100vh;
 
 }
