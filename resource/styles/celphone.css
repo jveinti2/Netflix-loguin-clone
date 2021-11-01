@@ -1,0 +1,15 @@
+header .container_netflix img {
+    margin-left: 10px;
+    width: 100px;
+}
+.img-world img {
+    width: 10px;
+}
+header .container_button #idioma{
+    background-color: rgba(0, 0, 0, 20%);
+    color: white;
+    font-size: 13px;
+}
+header .container_button #login{
+    font-size: 13px;
+}
