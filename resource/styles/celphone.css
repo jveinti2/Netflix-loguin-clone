@@ -1,6 +1,9 @@
+header {
+    grid-template-columns: 1fr 2fr;
+}
 header .container_netflix img {
     margin-left: 10px;
-    width: 100px;
+    width: 130px;
 }
 .img-world img {
     width: 10px;
@@ -12,4 +15,9 @@ header .container_button #idioma{
 }
 header .container_button #login{
     font-size: 13px;
+}
+header .container_button{
+    justify-self: right;
+    margin-top: 20px;
+    margin-right: 10px;
 }
